@@ -1,0 +1,25 @@
+a = 20
+b = 5
+sum = a + b
+difference = a - b
+product = a * b
+quotient = a / b
+
+print(sum)
+print(difference)
+print(product)
+print(quotient)
+
+result = a + b * 2
+print(result)
+
+if a > b print(a)
+if b < a print(b)
+if a == 20 print(a)
+
+x = 10
+y = 3
+z = x * y + 2
+print(z)
+
+if z > 20 print(z)
